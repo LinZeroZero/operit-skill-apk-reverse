@@ -1,0 +1,8 @@
+# 技能目录里可能出现的临时产物，不进仓库
+*.tmp
+*.part
+*.apk
+*.idsig
+.DS_Store
+Thumbs.db
+*~
